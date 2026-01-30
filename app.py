@@ -12,7 +12,7 @@ CORS(app)
 
 # GitHub Configuration
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
-GITHUB_REPO = os.environ.get('GITHUB_REPO', 'AlfaLuaTest/piano-sheets-db')
+GITHUB_REPO = os.environ.get('GITHUB_REPO', 'orb1ispare/piano-sheets-db')
 GITHUB_BRANCH = 'main'
 SHEETS_FILE_PATH = 'sheets/piano_sheets.json'
 FAVORITES_FILE_PATH = 'users/data.js'
