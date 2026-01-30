@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-01-30 20:52:58 UTC
+// Updated: 2026-01-30 23:15:57 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -65,5 +65,6 @@ export const favorites = {
   "72554884": ["pork-soda"],
   "584176270": ["stay-rihanna", "nuke-powder-maeloux"],
   "857106814": [],
-  "841021427": ["like-him"]
+  "841021427": ["like-him"],
+  "67973817": ["promise"]
 };
