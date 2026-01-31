@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-01-31 09:10:43 UTC
+// Updated: 2026-01-31 09:10:57 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -69,5 +69,5 @@ export const favorites = {
   "67973817": ["promise", "pojdzmy-wszyscy-do-stajenki", "his-theme", "five-nights-at-freddys-movie", "no-surprises-radiohead"],
   "737361218": ["its-been-so-long", "fnaf-song-1", "love-story-indila", "romantic-homicide", "if-i-am-with-you", "counting-stars", "another-love", "i-really-want-to-stay-at-your-house"],
   "155709466": ["sparks-coldplay", "squid-game", "mind-brand", "love-story-taylor-swift"],
-  "182167040": ["kid-cudi", "like-him"]
+  "182167040": ["kid-cudi", "like-him", "promise"]
 };
