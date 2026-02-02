@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-02 21:07:27 UTC
+// Updated: 2026-02-02 21:13:16 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -8,7 +8,7 @@ export const favorites = {
   "919705100": ["kid-cudi", "married-life", "be-nice-2-me"],
   "915931217": ["golden-hour"],
   "691546047": ["pork-soda", "the-place-where-it-rained"],
-  "347604851": ["hype-boy", "call-of-silence", "guren-no-yumiya", "red-swan", "akuma-no-ko", "shinzo-wo-sasageyo", "unravel", "oscillation-naktigonis", "orange", "in-the-pool", "song-of-storms"],
+  "347604851": ["hype-boy", "call-of-silence", "guren-no-yumiya", "red-swan", "akuma-no-ko", "shinzo-wo-sasageyo", "unravel", "oscillation-naktigonis", "orange", "in-the-pool", "song-of-storms", "kid-cudi"],
   "845436524": ["stick-season", "song-of-storms", "resonanse-heavens-secret-requiem", "five-nights-at-freddys-movie", "passionfruit", "one", "get-jinxed", "impostor-syndrome"],
   "708988738": ["unravel", "bling-bang-bang-born", "gurenge"],
   "228438939": ["lonely-andreas-ronnberg"],
