@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-03 04:35:06 UTC
+// Updated: 2026-02-03 05:52:23 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -88,5 +88,6 @@ export const favorites = {
   "24928052": ["open-arms"],
   "102985417": ["all-girls-are-the-same", "sweater-weather", "last-suprise", "erika", "another-love", "7-rings", "moonlight-sonata-1st-movement"],
   "721263031": ["i-love-abigail-but-she-dont-love-me-back"],
-  "356084903": ["be-nice-2-me"]
+  "356084903": ["be-nice-2-me"],
+  "186333258": ["promise"]
 };
