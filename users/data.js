@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-03 09:16:42 UTC
+// Updated: 2026-02-03 09:19:08 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -90,5 +90,5 @@ export const favorites = {
   "721263031": ["i-love-abigail-but-she-dont-love-me-back"],
   "356084903": ["be-nice-2-me"],
   "186333258": ["multo", "hero-too", "call-of-silence", "let-down", "akaza-love-theme", "war-of-hearts", "amazing-digital-circus-theme", "love-in-the-dark", "undressed", "love-story-indila", "red-swan"],
-  "676701885": ["hype-boy"]
+  "676701885": ["hype-boy", "promise"]
 };
