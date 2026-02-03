@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-03 16:32:48 UTC
+// Updated: 2026-02-03 16:43:23 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -92,5 +92,6 @@ export const favorites = {
   "186333258": ["multo", "hero-too", "call-of-silence", "let-down", "akaza-love-theme", "war-of-hearts", "amazing-digital-circus-theme", "love-in-the-dark", "undressed", "love-story-indila", "red-swan"],
   "676701885": ["hype-boy", "promise", "resonanse-heavens-secret-requiem", "stick-season", "like-him", "pork-soda", "tacos-tirade", "kaikai-kitan"],
   "441878191": ["the-world-death-note-op", "pork-soda"],
-  "531876439": ["fnaf-song-1", "fallen-down", "fall-from-the-sky-pt-2"]
+  "531876439": ["fnaf-song-1", "fallen-down", "fall-from-the-sky-pt-2"],
+  "660826323": ["five-nights-at-freddys-movie"]
 };
