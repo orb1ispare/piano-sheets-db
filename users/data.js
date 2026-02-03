@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-03 07:48:09 UTC
+// Updated: 2026-02-03 08:10:57 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -64,7 +64,7 @@ export const favorites = {
   "665096141": ["rush-e", "fnaf-song-1"],
   "72554884": ["pork-soda"],
   "584176270": ["stay-rihanna", "nuke-powder-maeloux"],
-  "857106814": ["let-it-happen"],
+  "857106814": ["let-it-happen", "glimpse-of-us"],
   "841021427": ["like-him"],
   "67973817": ["pojdzmy-wszyscy-do-stajenki", "after-dark", "among-us-drip", "pork-soda"],
   "737361218": ["its-been-so-long", "fnaf-song-1", "love-story-indila", "romantic-homicide", "if-i-am-with-you", "counting-stars", "another-love", "i-really-want-to-stay-at-your-house"],
