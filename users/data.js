@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-04 20:41:10 UTC
+// Updated: 2026-02-04 20:42:01 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -98,5 +98,5 @@ export const favorites = {
   "311736705": ["five-nights-at-freddys-movie"],
   "516014768": ["hype-boy"],
   "787751554": ["end-of-beginning"],
-  "704857401": ["aeao", "kid-cudi"]
+  "704857401": ["kid-cudi"]
 };
