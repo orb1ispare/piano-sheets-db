@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-05 01:52:52 UTC
+// Updated: 2026-02-05 01:52:58 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -102,5 +102,5 @@ export const favorites = {
   "24040341": ["rush-e", "golden-hour"],
   "947375554": ["rush-e", "megalovania"],
   "279961439": ["like-him"],
-  "684274129": ["no-surprises-radiohead", "love-like-you", "fnaf-song-1", "romantic-homicide", "its-been-so-long"]
+  "684274129": ["no-surprises-radiohead", "love-like-you", "fnaf-song-1", "romantic-homicide", "its-been-so-long", "i-thought-i-saw-your-face-today"]
 };
