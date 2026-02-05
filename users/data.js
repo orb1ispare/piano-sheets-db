@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-05 07:34:56 UTC
+// Updated: 2026-02-05 18:10:26 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -103,5 +103,6 @@ export const favorites = {
   "947375554": ["rush-e", "megalovania"],
   "279961439": ["like-him"],
   "684274129": ["no-surprises-radiohead", "love-like-you", "fnaf-song-1", "romantic-homicide", "its-been-so-long", "i-thought-i-saw-your-face-today", "all-i-need", "fly-me-to-the-moon", "mrs-magic", "let-down", "in-the-pool"],
-  "378298309": ["passionfruit", "see-you-again-charlie-puth", "all-i-want-for-christmas-is-you", "moonlight-sonata-1st-movement", "moonlight-sonata-3rd-movement", "tek-it", "we-are-charlie-kirk", "wish"]
+  "378298309": ["passionfruit", "see-you-again-charlie-puth", "all-i-want-for-christmas-is-you", "moonlight-sonata-1st-movement", "moonlight-sonata-3rd-movement", "tek-it", "we-are-charlie-kirk", "wish"],
+  "251073555": ["let-it-happen"]
 };
