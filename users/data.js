@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-06 23:03:20 UTC
+// Updated: 2026-02-06 23:42:16 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -107,5 +107,5 @@ export const favorites = {
   "251073555": ["let-it-happen"],
   "427498845": ["debito-di-sonno", "cigarettes-out-the-window", "married-life", "fall-from-the-sky-pt-2", "skybase-standartskill", "viva-la-vida", "your-reality", "im-the-purple-guy", "kid-cudi"],
   "706689914": ["kid-cudi", "promise"],
-  "444414859": ["kid-cudi"]
+  "444414859": ["kid-cudi", "cardigan"]
 };
