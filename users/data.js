@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-07 23:24:32 UTC
+// Updated: 2026-02-07 23:24:34 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -112,5 +112,5 @@ export const favorites = {
   "336008655": ["resonanse-heavens-secret-requiem"],
   "548348299": ["not-like-us"],
   "804746956": ["nintendo-64", "chamber-of-reflection", "did-i-tell-u-that-i-miss-u", "buddy-holly-weezer"],
-  "15529343": ["cigarettes-out-the-window"]
+  "15529343": []
 };
