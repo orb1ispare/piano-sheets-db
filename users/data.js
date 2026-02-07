@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-07 13:35:18 UTC
+// Updated: 2026-02-07 17:26:19 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -110,5 +110,6 @@ export const favorites = {
   "444414859": ["kid-cudi", "cardigan"],
   "501575840": ["kid-cudi"],
   "336008655": ["resonanse-heavens-secret-requiem"],
-  "548348299": ["not-like-us"]
+  "548348299": ["not-like-us"],
+  "804746956": ["nintendo-64"]
 };
