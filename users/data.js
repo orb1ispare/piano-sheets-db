@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-08 20:41:13 UTC
+// Updated: 2026-02-08 20:45:24 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -119,6 +119,6 @@ export const favorites = {
   "18122909": ["sinking-town"],
   "581354021": ["in-the-sea", "jane-doe", "back-to-friends"],
   "265472972": ["the-real-slim-shady"],
-  "43305368": ["after-like", "song-of-storms", "stick-season", "sad-song-we-the-kings", "lovely", "pork-soda", "drowning-love", "if-you-love-these-people"],
+  "43305368": ["after-like", "song-of-storms", "stick-season", "sad-song-we-the-kings", "pork-soda", "drowning-love", "if-you-love-these-people"],
   "912890230": []
 };
