@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-10 17:49:46 UTC
+// Updated: 2026-02-11 03:03:32 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -123,5 +123,6 @@ export const favorites = {
   "912890230": ["coffin-dance", "jingle-bells", "carol-of-the-bells", "tetris-theme", "kimetsu-no-yaiba-op", "somewhere-only-we-know"],
   "713227559": ["like-him", "love-like-you", "hype-boy", "stick-season"],
   "954388718": ["be-nice-2-me"],
-  "297145978": ["like-him"]
+  "297145978": ["like-him"],
+  "919783128": ["song-of-storms"]
 };
