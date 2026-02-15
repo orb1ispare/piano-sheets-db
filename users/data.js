@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-15 04:23:41 UTC
+// Updated: 2026-02-15 13:43:58 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -136,5 +136,6 @@ export const favorites = {
   "525084779": ["cigarettes-out-the-window", "oscillation-naktigonis"],
   "536508102": ["like-him", "4-raws", "pork-soda", "resonanse-heavens-secret-requiem", "grandmas-home", "promise", "hype-boy", "squid-game", "drowning-love", "jane-doe"],
   "667357148": [],
-  "966851410": ["snuff"]
+  "966851410": ["snuff"],
+  "620987275": ["the-star-spangled-banner"]
 };
