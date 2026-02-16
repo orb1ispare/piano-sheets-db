@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-16 07:51:45 UTC
+// Updated: 2026-02-16 07:53:00 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -139,6 +139,6 @@ export const favorites = {
   "966851410": ["snuff"],
   "620987275": ["the-star-spangled-banner"],
   "97199265": ["kid-cudi"],
-  "933015755": ["pirates-of-the-caribbean", "remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you"],
+  "933015755": ["pirates-of-the-caribbean", "remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you", "the-fate-of-ophelia"],
   "50543641": ["squid-game"]
 };
