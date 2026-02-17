@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-16 20:22:44 UTC
+// Updated: 2026-02-17 03:04:30 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -140,5 +140,6 @@ export const favorites = {
   "620987275": ["the-star-spangled-banner"],
   "97199265": ["kid-cudi"],
   "933015755": ["remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you", "the-fate-of-ophelia", "viva-la-vida", "boys-don-t-cry", "still-dre", "dance-monkey", "nyan-cat", "mr-sandman", "sanguine-paradise", "what-happened-to-virgil", "robbery-juice-wrld", "all-girls-are-the-same", "rush-e"],
-  "50543641": ["squid-game"]
+  "50543641": ["squid-game"],
+  "938081548": ["kid-cudi"]
 };
