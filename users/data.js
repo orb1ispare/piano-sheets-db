@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-17 03:08:24 UTC
+// Updated: 2026-02-17 03:23:53 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -141,5 +141,5 @@ export const favorites = {
   "97199265": ["kid-cudi"],
   "933015755": ["remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you", "the-fate-of-ophelia", "viva-la-vida", "boys-don-t-cry", "still-dre", "dance-monkey", "nyan-cat", "mr-sandman", "sanguine-paradise", "what-happened-to-virgil", "robbery-juice-wrld", "all-girls-are-the-same", "rush-e"],
   "50543641": ["squid-game"],
-  "938081548": ["aria-math"]
+  "938081548": ["aria-math", "runaway"]
 };
