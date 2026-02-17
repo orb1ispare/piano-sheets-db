@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-17 12:42:22 UTC
+// Updated: 2026-02-17 12:43:07 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -142,5 +142,5 @@ export const favorites = {
   "933015755": ["remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you", "the-fate-of-ophelia", "viva-la-vida", "boys-don-t-cry", "still-dre", "dance-monkey", "nyan-cat", "mr-sandman", "sanguine-paradise", "what-happened-to-virgil", "robbery-juice-wrld", "all-girls-are-the-same", "rush-e"],
   "50543641": ["squid-game"],
   "938081548": ["aria-math", "runaway", "subwoofer-lullaby"],
-  "156008784": ["grandmas-home", "resonanse-heavens-secret-requiem", "what-is-love", "vampire", "ylang-ylang", "somethin-stupid", "wait-for-it-hamilton", "what-about-us", "what-it-sounds-like", "we-are-charlie-kirk", "silksong-theme", "like-i-want-you", "manazashi-wa-hikari", "tea-time-waltz", "rain-ii", "should-i-stay-or-should-i-go", "not-like-us", "married-life", "among-us-drip", "robbery-juice-wrld", "unravel", "tacos-tirade", "mind-brand", "the-wanderer", "after-dark", "fall-from-the-sky-pt-2", "hallelujah-kanye-west", "binkusuno-sake", "if-i-am-with-you", "iris", "a-little-bit-bad", "old-doll", "from-the-start", "right-behind-you", "seasons-wave-to-earth", "snuff", "aeao", "duvet"]
+  "156008784": ["grandmas-home", "resonanse-heavens-secret-requiem", "what-is-love", "vampire", "ylang-ylang", "somethin-stupid", "wait-for-it-hamilton", "what-about-us", "what-it-sounds-like", "we-are-charlie-kirk", "silksong-theme", "like-i-want-you", "manazashi-wa-hikari", "tea-time-waltz", "rain-ii", "should-i-stay-or-should-i-go", "not-like-us", "married-life", "among-us-drip", "robbery-juice-wrld", "unravel", "tacos-tirade", "mind-brand", "the-wanderer", "after-dark", "fall-from-the-sky-pt-2", "hallelujah-kanye-west", "binkusuno-sake", "if-i-am-with-you", "iris", "a-little-bit-bad", "old-doll", "from-the-start", "right-behind-you", "seasons-wave-to-earth", "snuff", "aeao", "duvet", "all-my-fellas"]
 };
