@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-18 08:54:10 UTC
+// Updated: 2026-02-18 08:54:13 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -142,5 +142,5 @@ export const favorites = {
   "933015755": ["remember-me-from-coco", "piano-man", "let-her-go", "10-things-i-hate-about-you", "the-fate-of-ophelia", "viva-la-vida", "boys-don-t-cry", "still-dre", "dance-monkey", "nyan-cat", "mr-sandman", "sanguine-paradise", "what-happened-to-virgil", "robbery-juice-wrld", "all-girls-are-the-same", "rush-e", "fur-elise", "kid-cudi"],
   "50543641": ["squid-game"],
   "938081548": ["aria-math", "runaway", "subwoofer-lullaby", "erika", "interstellar"],
-  "156008784": ["grandmas-home", "resonanse-heavens-secret-requiem", "what-is-love", "vampire", "ylang-ylang", "somethin-stupid", "wait-for-it-hamilton", "what-about-us", "what-it-sounds-like", "we-are-charlie-kirk", "silksong-theme", "like-i-want-you", "manazashi-wa-hikari", "tea-time-waltz", "rain-ii", "should-i-stay-or-should-i-go", "not-like-us", "married-life", "unravel", "tacos-tirade", "mind-brand", "fall-from-the-sky-pt-2", "if-i-am-with-you", "from-the-start", "right-behind-you", "seasons-wave-to-earth", "snuff", "aeao", "all-my-fellas", "formula-1-theme", "cyan", "shinunoga-e-wa", "let-me-see-ya-move", "all-i-need-slushii", "xoxo-feng", "immortal", "alone-marshmello", "kid-cudi", "robbery-juice-wrld", "love-like-you", "nope-your-too-late-i-already-died", "confess-your-love", "i-love-abigail-but-she-dont-love-me-back"]
+  "156008784": ["grandmas-home", "resonanse-heavens-secret-requiem", "what-is-love", "vampire", "ylang-ylang", "somethin-stupid", "wait-for-it-hamilton", "what-about-us", "what-it-sounds-like", "we-are-charlie-kirk", "silksong-theme", "like-i-want-you", "manazashi-wa-hikari", "tea-time-waltz", "rain-ii", "should-i-stay-or-should-i-go", "not-like-us", "married-life", "unravel", "tacos-tirade", "mind-brand", "fall-from-the-sky-pt-2", "if-i-am-with-you", "from-the-start", "right-behind-you", "seasons-wave-to-earth", "snuff", "aeao", "all-my-fellas", "formula-1-theme", "cyan", "shinunoga-e-wa", "let-me-see-ya-move", "all-i-need-slushii", "xoxo-feng", "immortal", "alone-marshmello", "kid-cudi", "robbery-juice-wrld", "love-like-you", "nope-your-too-late-i-already-died", "confess-your-love", "i-love-abigail-but-she-dont-love-me-back", "drowning-love"]
 };
