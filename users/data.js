@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-18 20:47:41 UTC
+// Updated: 2026-02-18 21:30:38 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -144,7 +144,7 @@ export const favorites = {
   "938081548": ["aria-math", "runaway", "subwoofer-lullaby", "erika", "interstellar"],
   "156008784": ["grandmas-home", "resonanse-heavens-secret-requiem", "what-is-love", "vampire", "ylang-ylang", "somethin-stupid", "wait-for-it-hamilton", "what-about-us", "what-it-sounds-like", "we-are-charlie-kirk", "silksong-theme", "like-i-want-you", "manazashi-wa-hikari", "tea-time-waltz", "should-i-stay-or-should-i-go", "not-like-us", "married-life", "unravel", "tacos-tirade", "mind-brand", "fall-from-the-sky-pt-2", "if-i-am-with-you", "from-the-start", "right-behind-you", "seasons-wave-to-earth", "snuff", "aeao", "all-my-fellas", "formula-1-theme", "cyan", "shinunoga-e-wa", "let-me-see-ya-move", "all-i-need-slushii", "xoxo-feng", "immortal", "alone-marshmello", "kid-cudi", "love-like-you", "nope-your-too-late-i-already-died", "confess-your-love", "i-love-abigail-but-she-dont-love-me-back", "drowning-love", "lovely", "stick-season", "bumble-bee", "sinking-town", "karma-police"],
   "987475767": ["stick-season"],
-  "836959497": ["grandmas-home"],
+  "836959497": ["grandmas-home", "song-of-storms"],
   "742785636": ["grandmas-home"],
   "3655268": ["like-him", "16-lines", "fnaf-song-1"]
 };
