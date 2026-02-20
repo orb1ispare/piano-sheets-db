@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-20 23:00:10 UTC
+// Updated: 2026-02-20 23:04:46 UTC
 
 export const favorites = {
   "816774921": ["its-been-so-long", "love-story-indila"],
@@ -10,5 +10,5 @@ export const favorites = {
   "43305368": ["all-girls-are-the-same", "stick-season", "pork-soda", "promise", "love-story-indila", "chest-pain-i-love", "if-you-love-these-people", "debito-di-sonno", "five-nights-at-freddys-movie", "his-theme"],
   "79251703": ["another-love", "izmir-marsi"],
   "698251037": [],
-  "836959497": ["kid-cudi"]
+  "836959497": ["kid-cudi", "his-theme"]
 };
