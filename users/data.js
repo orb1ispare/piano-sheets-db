@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-20 01:22:06 UTC
+// Updated: 2026-02-20 01:27:57 UTC
 
 export const favorites = {
   "918031124": ["another-love"],
@@ -147,7 +147,7 @@ export const favorites = {
   "836959497": ["grandmas-home", "song-of-storms"],
   "742785636": ["grandmas-home"],
   "3655268": ["like-him", "16-lines", "fnaf-song-1"],
-  "816774921": ["sailor-song", "poster-boy", "stick-season", "promise", "pure-vessel", "five-nights-at-freddys-movie", "never-be-alone", "like-him", "song-of-storms", "chamber-of-reflection"],
+  "816774921": ["sailor-song", "poster-boy", "stick-season", "promise", "pure-vessel", "five-nights-at-freddys-movie", "never-be-alone", "like-him", "song-of-storms", "chamber-of-reflection", "over"],
   "455825300": ["sad-song-we-the-kings"],
   "995452601": ["slow-dancing-in-the-dark"]
 };
