@@ -1,11 +1,11 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-20 18:45:09 UTC
+// Updated: 2026-02-20 18:45:16 UTC
 
 export const favorites = {
   "816774921": ["its-been-so-long", "love-story-indila"],
   "451609118": ["love-story-indila"],
   "36619352": ["erika"],
   "742785636": ["pork-soda", "all-i-want-for-christmas-is-you"],
-  "43305368": ["all-girls-are-the-same", "stick-season", "pork-soda", "promise", "if-you-love-these-people", "drowning-love", "confess-your-love"]
+  "43305368": ["all-girls-are-the-same", "stick-season", "pork-soda", "promise", "if-you-love-these-people", "drowning-love", "confess-your-love", "love-story-indila"]
 };
