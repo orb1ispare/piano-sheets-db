@@ -1,8 +1,8 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-20 11:27:39 UTC
+// Updated: 2026-02-20 11:27:46 UTC
 
 export const favorites = {
   "816774921": ["its-been-so-long"],
-  "451609118": ["cigarettes-out-the-window"]
+  "451609118": []
 };
