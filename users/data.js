@@ -1,9 +1,9 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-20 12:28:39 UTC
+// Updated: 2026-02-20 16:30:48 UTC
 
 export const favorites = {
-  "816774921": ["its-been-so-long"],
+  "816774921": ["its-been-so-long", "turu-r9-vol2"],
   "451609118": ["love-story-indila"],
   "36619352": ["erika"]
 };
