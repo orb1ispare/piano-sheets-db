@@ -1,9 +1,9 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-21 17:26:23 UTC
+// Updated: 2026-02-21 17:30:45 UTC
 
 export const favorites = {
-  "816774921": ["its-been-so-long", "love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "blue"],
+  "816774921": ["its-been-so-long", "love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "blue", "rush-e"],
   "451609118": ["love-story-indila"],
   "36619352": ["erika"],
   "742785636": ["pork-soda", "all-i-want-for-christmas-is-you"],
