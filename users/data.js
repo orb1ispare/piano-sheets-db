@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-21 06:22:51 UTC
+// Updated: 2026-02-21 07:57:37 UTC
 
 export const favorites = {
   "816774921": ["its-been-so-long", "love-story-indila"],
@@ -12,5 +12,6 @@ export const favorites = {
   "698251037": ["unravel"],
   "836959497": ["kid-cudi", "his-theme"],
   "938081548": ["interstellar", "aria-math"],
-  "733578271": ["grandmas-home"]
+  "733578271": ["grandmas-home"],
+  "156008784": ["song-of-storms"]
 };
