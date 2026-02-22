@@ -1,9 +1,9 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-22 20:17:49 UTC
+// Updated: 2026-02-22 20:31:33 UTC
 
 export const favorites = {
-  "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep"],
+  "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
   "451609118": ["love-story-indila"],
   "36619352": ["erika"],
   "742785636": ["pork-soda", "all-i-want-for-christmas-is-you"],
