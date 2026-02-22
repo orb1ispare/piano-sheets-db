@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-22 01:56:47 UTC
+// Updated: 2026-02-22 03:17:34 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue"],
@@ -15,5 +15,6 @@ export const favorites = {
   "733578271": ["grandmas-home"],
   "156008784": ["song-of-storms", "grandmas-home", "eternal-dream-murder-drones", "creep", "tough-luck", "new-computers"],
   "198019641": ["robbery-juice-wrld"],
-  "112398055": ["chest-pain-i-love"]
+  "112398055": ["chest-pain-i-love"],
+  "639401484": ["oops-did-it-again"]
 };
