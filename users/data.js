@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-23 11:28:55 UTC
+// Updated: 2026-02-23 11:29:23 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -23,5 +23,5 @@ export const favorites = {
   "848879732": ["carol-of-the-bells", "from-the-start", "the-world-death-note-op", "if-i-am-with-you", "the-cruel-angels-thesis", "kawaikute-gomen", "nope-your-too-late-i-already-died", "poster-boy"],
   "943232059": ["promise"],
   "636831239": ["minecraft-sweden", "runaway", "door", "rush-e", "mice-on-venus"],
-  "234341824": ["monsoon"]
+  "234341824": ["monsoon", "took-her-to-the-o"]
 };
