@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-23 02:21:07 UTC
+// Updated: 2026-02-23 02:22:28 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -20,5 +20,5 @@ export const favorites = {
   "457769316": ["five-nights-at-freddys-movie", "i-wanna-be-yours"],
   "891179348": [],
   "858946055": ["pork-soda"],
-  "848879732": ["carol-of-the-bells"]
+  "848879732": ["carol-of-the-bells", "from-the-start"]
 };
