@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-23 22:04:02 UTC
+// Updated: 2026-02-23 22:12:58 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -29,5 +29,6 @@ export const favorites = {
   "589229028": ["robbery-juice-wrld"],
   "140584214": ["stick-season", "debito-di-sonno"],
   "333436434": ["end-of-beginning", "mia-and-sebastians-theme"],
-  "516882949": ["anata-no-koibito-ni-naritai", "see-you-again-tyler-the-creator", "passionfruit"]
+  "516882949": ["anata-no-koibito-ni-naritai", "see-you-again-tyler-the-creator", "passionfruit"],
+  "350463994": ["rush-e"]
 };
