@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-24 21:15:34 UTC
+// Updated: 2026-02-24 21:15:39 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -31,7 +31,7 @@ export const favorites = {
   "333436434": ["end-of-beginning", "mia-and-sebastians-theme"],
   "516882949": ["anata-no-koibito-ni-naritai", "passionfruit", "interstellar"],
   "350463994": ["rush-e", "thick-of-it"],
-  "295939480": ["see-you-again-tyler-the-creator", "join-me-in-death", "took-her-to-the-o", "burn", "stay-rihanna", "the-promise-final-fantasy-xiii", "passionfruit", "fur-elise"],
+  "295939480": ["see-you-again-tyler-the-creator", "join-me-in-death", "burn", "stay-rihanna", "the-promise-final-fantasy-xiii", "passionfruit", "fur-elise"],
   "88508638": [],
   "859330476": ["buddy-holly-weezer", "end-of-beginning"]
 };
