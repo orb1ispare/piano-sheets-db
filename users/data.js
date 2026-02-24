@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-24 07:09:54 UTC
+// Updated: 2026-02-24 07:09:56 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -33,5 +33,5 @@ export const favorites = {
   "350463994": ["rush-e", "thick-of-it"],
   "295939480": ["after-dark", "mockingbird", "the-way-things-go", "see-you-again-tyler-the-creator", "join-me-in-death", "took-her-to-the-o", "burn", "stay-rihanna", "the-promise-final-fantasy-xiii", "passionfruit"],
   "88508638": [],
-  "859330476": ["buddy-holly-weezer"]
+  "859330476": []
 };
