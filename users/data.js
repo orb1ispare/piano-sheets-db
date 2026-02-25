@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-25 00:54:42 UTC
+// Updated: 2026-02-25 00:54:44 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -35,5 +35,5 @@ export const favorites = {
   "88508638": [],
   "859330476": ["buddy-holly-weezer", "end-of-beginning"],
   "531819202": ["new-computers"],
-  "135767004": ["hype-boy"]
+  "135767004": []
 };
