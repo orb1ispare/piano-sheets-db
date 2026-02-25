@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-25 21:09:31 UTC
+// Updated: 2026-02-25 21:09:51 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -24,7 +24,7 @@ export const favorites = {
   "943232059": ["promise"],
   "636831239": ["minecraft-sweden", "runaway", "door", "rush-e", "mice-on-venus"],
   "234341824": ["monsoon", "took-her-to-the-o", "nope-your-too-late-i-already-died"],
-  "343855507": ["my-ordinary-life", "hotline-bling", "let-her-go", "sailor-song", "turning-page"],
+  "343855507": ["my-ordinary-life", "hotline-bling", "let-her-go", "sailor-song", "turning-page", "undressed"],
   "3422383": [],
   "589229028": ["robbery-juice-wrld"],
   "140584214": ["stick-season", "debito-di-sonno", "cigarettes-out-the-window"],
