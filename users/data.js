@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-25 21:40:09 UTC
+// Updated: 2026-02-25 21:40:13 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -40,5 +40,5 @@ export const favorites = {
   "67973817": ["squid-game"],
   "820831933": ["cardigan"],
   "686585648": ["pork-soda"],
-  "280133457": ["something-in-the-orange", "i-love-abigail-but-she-dont-love-me-back", "resonanse-heavens-secret-requiem", "kaikai-kitan", "manazashi-wa-hikari", "golden-hour", "five-nights-at-freddys-movie", "fall-from-the-sky-pt-2"]
+  "280133457": ["something-in-the-orange", "i-love-abigail-but-she-dont-love-me-back", "resonanse-heavens-secret-requiem", "kaikai-kitan", "golden-hour", "five-nights-at-freddys-movie", "fall-from-the-sky-pt-2"]
 };
