@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-25 00:12:03 UTC
+// Updated: 2026-02-25 00:54:42 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -34,5 +34,6 @@ export const favorites = {
   "295939480": ["see-you-again-tyler-the-creator", "join-me-in-death", "burn", "stay-rihanna", "fur-elise", "resonanse-heavens-secret-requiem", "kid-cudi", "all-girls-are-the-same", "the-way-things-go", "symphony", "red-swan", "rick-roll", "over", "karma-police", "oops-did-it-again", "see-you-again-charlie-puth", "all-star", "symphony-no-5", "super-mario-bros-theme", "the-box", "interstellar", "thick-of-it", "duvet", "the-star-spangled-banner", "hotline-bling", "silhouette", "unravel", "halloween-theme-michael-myers", "best-friend", "nyan-cat", "raining-tacos", "beastars-wolf-and-rabbit", "moonlight-sonata-1st-movement", "moonlight-sonata-3rd-movement", "sweater-weather", "my-ordinary-life", "in-the-pool", "piano-man", "dark-red", "washing-machine-heart", "white-ferrari", "zeldas-lullaby", "upside-down", "boys-don-t-cry", "melancholy", "commatose-glass-beach", "girl-song", "we-are-charlie-kirk", "runaway-aurora", "once-upon-a-time", "you-are-not-suguru-geto", "still-dre", "mr-sandman", "shinunoga-e-wa"],
   "88508638": [],
   "859330476": ["buddy-holly-weezer", "end-of-beginning"],
-  "531819202": ["new-computers"]
+  "531819202": ["new-computers"],
+  "135767004": ["hype-boy"]
 };
