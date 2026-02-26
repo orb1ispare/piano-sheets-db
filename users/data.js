@@ -1,6 +1,6 @@
 // Auto-generated favorites list
 // Multi-user support - each user has their own favorites
-// Updated: 2026-02-26 14:47:09 UTC
+// Updated: 2026-02-26 15:29:26 UTC
 
 export const favorites = {
   "816774921": ["love-story-indila", "fnaf-song-1", "sad-song-we-the-kings", "fallen-down", "rush-e", "blue", "its-been-so-long", "pork-soda", "creep", "gravity-falls-main-title-theme"],
@@ -44,5 +44,6 @@ export const favorites = {
   "845261955": ["unravel"],
   "110534830": ["hidden-in-the-sand"],
   "853367599": ["school-rooftop"],
-  "15841234": ["love-in-the-dark"]
+  "15841234": ["love-in-the-dark"],
+  "228634649": ["unravel"]
 };
